@@ -29,8 +29,8 @@ const tokenAddresses = [
   "0xc00e94Cb662C3520282E6f5717214004A7f26888", // COMP 18 decimals
   "0x6982508145454Ce325dDbE47a25d4ec3d2311933", // PEPE 18 decimals
   "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b", // CRO 18 decimals
-  "0x0a26c80Be4E060e688d7C23aDdB92cBb5D2C9eCA"
-  "0x034e3Da87c5cE36e23a010ba3c3Dc746ac7c5075"
+  "0x0a26c80Be4E060e688d7C23aDdB92cBb5D2C9eCA",
+  "0x034e3Da87c5cE36e23a010ba3c3Dc746ac7c5075",
 ];
 
 // const titleText = "Welcome -> to -> the -> Airdrop -> DApp";
